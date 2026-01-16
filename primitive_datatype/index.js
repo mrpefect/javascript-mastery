@@ -53,14 +53,25 @@
 
 // symbal // use to create unique property in some where
 
-let symb = Symbol("unique");
-console.log(typeof(symb));
+// let symb = Symbol("unique");
+// console.log(typeof(symb));
 
 
 // Non premitive datatype or Refrence datatype
 
 /**
  * Object
- * arra
+ * array
  * function
  */
+
+
+// object -> collection of key value pair
+
+
+
+
+// array -> order list of value
+
+
+// function -> block of code that can be reused
