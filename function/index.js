@@ -14,8 +14,8 @@
 // userDetails("Sudhir", "sudhir@gmail.com");
 
 
-const user = ()=>{
-    console.log("I am user");
-}
+// const user = ()=>{
+//     console.log("I am user");
+// }
 
-user();
+// user();
